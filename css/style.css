@@ -1,0 +1,50 @@
+.example {
+  height: 600px;
+  margin-bottom: 50px;
+}
+
+#color1 {
+  background-color: rgb(166, 208, 245);
+}
+
+#color2 {
+  background-color: rgb(136, 231, 231);
+}
+
+#color3 {
+  background-color: gray;
+}
+
+#color4 {
+  background-color: burlywood;
+}
+
+#color5 {
+  /* background-color: chocolate; */
+  background-color: #0000006b;
+  color: #ffffff;
+}
+
+#color6 {
+  /* background-color: darkolivegreen; */
+  background-color: #0000006b;
+  color: #ffffff;
+}
+
+/* Counter start */
+.counter_content {
+  margin: 145px 0 0;
+  padding: 100px 20px;
+  border: 1px solid #ffffff;
+}
+.counter_content span {
+  font-size: 35px;
+  font-weight: 700;
+}
+
+/* Parallax */
+.parallax-window {
+  min-height: 400px;
+  width: 100%;
+  background: transparent;
+}
